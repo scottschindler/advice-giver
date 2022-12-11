@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/scottschindler/advice-giver#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "knex": "^0.19.4",
     "sqlite": "^3.0.3"
   }
